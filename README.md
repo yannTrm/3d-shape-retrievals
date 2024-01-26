@@ -27,6 +27,12 @@ To get started, download the McGill dataset from [this link](https://www.cim.mcg
 
 Adjust the parameters in the respective notebooks (`createFullDataset.ipynb`, `classification.ipynb`, `createLatentVector.ipynb`, and `retrieval.ipynb`) to customize the behavior of the data generation, model training, latent vector creation, and retrieval processes.
 
+## About the Project
+
+
+- **Development Period:**
+  - Worked on this project in 2023 during my Master's in MMVAI at Paris Saclay.
+
 ## Issues and Contributions
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
@@ -35,6 +41,3 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 
 This project relies on the McGill dataset, and we acknowledge the creators and contributors to the dataset for their valuable resource.
 
----
-
-Feel free to customize the instructions further based on your project's specific requirements. Best of luck with your 3D shape retrieval application!
